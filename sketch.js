@@ -9,6 +9,7 @@ createCanvas(600,600);
 
 player = createSprite(40,550,15,15); 
 carrot = createSprite(560,40,30,30);
+snake  = createSprite(400,40,50,50);  
 obs1 = createSprite(80,280,90,20);
 obs2 = createSprite(10,330,90,20);
 obs3 = createSprite(160,330,90,20);
